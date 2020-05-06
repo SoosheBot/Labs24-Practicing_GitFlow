@@ -18,6 +18,8 @@ function App() {
         >
           Updating code 
           ...............................
+
+          This is a test for the merge conflicts...
         </a>
       </header>
     </div>
